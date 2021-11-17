@@ -9,3 +9,19 @@
 .subscriber_form_container{
   margin-top: 40px
 }
+
+a {
+  text-decoration: none !important;
+  font-weight: bold !important;
+  color: #333 !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+  color: rgba(15, 102, 216, 0.878) !important;
+  transform: 1;
+}
+
+a .active {
+  color:rgba(15, 102, 216, 0.878) !important
+}

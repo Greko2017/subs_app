@@ -1,0 +1,9 @@
+// initiators 
+export const INITIATE_DB_REQUEST = 'INITIATE_DB_REQUEST';
+export const INITIATE_DB_FAILURE = 'INITIATE_DB_FAILURE';
+
+// fetch Initial data
+export const FETCH_INITIAL_DATA_SUCCESS = 'FETCH_INITIAL_DATA_SUCCESS';
+
+// post Subscription
+export const POST_SUBSCRIPTION_SUCCESS = 'POST_SUBSCRIPTION_SUCCESS';

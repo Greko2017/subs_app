@@ -8,7 +8,7 @@ export class Header extends Component {
         return (
 
         <Navbar bg="light" variant="light" sticky="top" expand="lg">
-            <Navbar.Brand><NavLink to="/">App Name</NavLink></Navbar.Brand>
+            <Navbar.Brand><Link to="/">Site Name</Link></Navbar.Brand>
             <Navbar.Toggle/>
             <Navbar.Collapse>
                 <Nav>
