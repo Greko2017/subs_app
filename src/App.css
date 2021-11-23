@@ -3,7 +3,7 @@
 } */
 
 
-.main_container{
+/* .main_container{
   columns: 'coral';
 }
 .subscriber_form_container{
@@ -12,16 +12,16 @@
 
 a {
   text-decoration: none !important;
-  font-weight: bold !important;
-  color: #333 !important;
+  font-weight: bold;
+  color: #333;
 }
 
 a:hover {
-  text-decoration: none !important;
-  color: rgba(15, 102, 216, 0.878) !important;
+  text-decoration: none;
+  color: rgba(15, 102, 216, 0.878);
   transform: 1;
 }
 
 a .active {
-  color:rgba(15, 102, 216, 0.878) !important
-}
+  color:rgba(15, 102, 216, 0.878);
+} */
